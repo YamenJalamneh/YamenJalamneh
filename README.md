@@ -1,5 +1,3 @@
-[![MasterHead](https://global.discourse-cdn.com/business6/uploads/codeorgforum/original/2X/5/5850a08813648555f34c29bea7b6d1de15f01655.gif)]
-
 
 <h1 align="center">Hi 👋, I'm Yamen Jalamneh</h1>
 <h3 align="center">Passionate Full-Stack Developer | Crafting Seamless Web Experiences from Frontend to Backend | Code Enthusiast and Problem Solver</h3>
