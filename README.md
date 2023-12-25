@@ -1,4 +1,3 @@
-<div align="center"><img src="https://i.ibb.co/cNqpGQ7/web-developer-w-65a5de3f-5153-43f0-bac1-e57bc0d440e9.png" width="400" alt="web-developer-w-65a5de3f-5153-43f0-bac1-e57bc0d440e9" border="0" /></div>
 <h1 align="center">Hi 👋, I'm Yamen Jalamneh</h1>
 <h3 align="center">Passionate Full-Stack Developer | Crafting Seamless Web Experiences from Frontend to Backend | Code Enthusiast and Problem Solver</h3>
 
