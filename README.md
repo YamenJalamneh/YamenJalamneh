@@ -27,6 +27,8 @@
 
 - 👯 I’m looking to collaborate on **on Open source projects**
 
+- 🌱 I’m currently learning **MERN JS**
+
 - 💬 Ask me about **Laravel, Vue.js, Nuxt.js, React**
 
 - 📫 How to reach me **yamenjalamneh@live.com**
