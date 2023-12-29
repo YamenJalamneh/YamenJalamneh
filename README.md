@@ -3,11 +3,27 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/yajalamneh" target="blank"><img src="https://img.shields.io/twitter/follow/yajalamneh?logo=twitter&style=for-the-badge" alt="yajalamneh"  </p>
+<div align="left">
+  <a href="https://twitter.com/yajalamneh">
+    <img
+      src="https://img.shields.io/twitter/follow/yajalamneh?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://linkedin.com/in/yamenjalamneh">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/YamenJalamneh">
+    <img src="https://komarev.com/ghpvc/?username=YamenJalamneh&label=Profile%20views&color=0e75b6&style=flat" alt="YamenJalamneh" />
+  </a>
+</div>
 
+<br />
 
-
-- 🔭 I’m currently working as a Full Stack Web Developer at [Digital Future](https://digitalfuture.sa/en/)
+- 🔭 I’m currently working as a Full Stack Web Developer at [Digital Future](https://digitalfuture.sa)
 
 - 👯 I’m looking to collaborate on **on Open source projects**
 
